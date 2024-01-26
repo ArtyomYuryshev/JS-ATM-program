@@ -121,15 +121,6 @@ $> npm test -> run test examples related to chosen module
 1. Course link: https://learn.epam.com/detailsPage?id=59bdf234-6664-4f38-a9c5-6689edd6f8d4
 1. Home task: https://git.epam.com/Dzmitry_Shaplyka/js-atm-program/-/blob/master/module-10/README.md#task
 
-## Contact list
-
-In case of any questions please contact:
-
-- Dzmitry_Shaplyka@epam.com
-- Oleksandr_Halichenko@epam.com
-- Matsvei_Murashka@epam.com
-- Andrei_Dzeichyk@epam.com
-
 <a name="license"/>
 
 ## License
